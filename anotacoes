@@ -1,0 +1,10 @@
+    display: grid   = para iniciar o GRID
+    
+    grid-template-areas: "cabecalho", "conteudo", "rodape" = dando nomes para as areas e definindo quantas areas nosso GRID terá 
+    
+    grid-template-columns: auto  = definindo a largura das colunas
+    grid-template-rows: auto  = definindo a largura das linhas
+    
+
+    grid-area: cabecalho  =   especificando quem são os donos das areas e colocando os nomes dados no grid-tamplete-area
+    
